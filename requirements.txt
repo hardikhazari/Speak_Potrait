@@ -1,0 +1,22 @@
+# Core PyTorch (Versions should match your target environment)
+torch
+torchvision
+torchaudio
+
+# Image Processing
+Pillow
+requests
+
+# Background Removal (CarveKit)
+carvekit-colab
+
+# Age Transformation (SAM / pSp)
+dlib
+# Note: The AgeTransformationModel also requires cloning the yuval-alaluf/SAM repository
+# e.g., git clone https://github.com/yuval-alaluf/SAM.git
+
+# Zonos TTS
+# Note: Zonos TTS requires cloning the Zyphra/Zonos repository and UV.
+# e.g., git clone https://github.com/Zyphra/Zonos.git && cd Zonos && uv sync
+# Alternatively, via pip (if supported):
+# git+https://github.com/Zyphra/Zonos.git
