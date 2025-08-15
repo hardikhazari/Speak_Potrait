@@ -9,8 +9,8 @@ Welcome to the **Speak Portrait ML Pipeline** repository. This is an extracted m
 **Speak Portrait** is a comprehensive multimedia SaaS platform that allows users to generate and manage dynamic "talking portrait" videos. It features secure user authentication, robust cloud storage, and real-time processing pipelines. 
 
 To view the full stack, please refer to the main application repositories:
-*   🔗 **[Backend API Repository (Node.js/Express)](https://github.com/yasharyasaxena/speak_portrait_backend.git)**: Manages PostgreSQL via Prisma, AWS S3 buckets for media storage, and Firebase authentication.
-*   🔗 **Frontend Application (Next.js/React)**: The main user interface, featuring Tailwind styling, Firebase client auth, and real-time WebSocket integrations for tracking generation status.
+*   🔗 **[Backend API Repository (Node.js/Express)](https://github.com/hardikhazari/speak_portrait_backend)**: Manages PostgreSQL via Prisma, AWS S3 buckets for media storage, and Firebase authentication.
+*   🔗 **[Frontend Application (Next.js/React)](https://github.com/hardikhazari/speak_portrait_frontend)**: The main user interface, featuring Tailwind styling, Firebase client auth, and real-time WebSocket integrations for tracking generation status.
 
 ---
 
