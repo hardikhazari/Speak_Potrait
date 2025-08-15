@@ -11,6 +11,7 @@ Welcome to the **Speak Portrait ML Pipeline** repository. This is an extracted m
 To view the full stack, please refer to the main application repositories:
 *   🔗 **[Backend API Repository (Node.js/Express)](https://github.com/hardikhazari/speak_portrait_backend)**: Manages PostgreSQL via Prisma, AWS S3 buckets for media storage, and Firebase authentication.
 *   🔗 **[Frontend Application (Next.js/React)](https://github.com/hardikhazari/speak_portrait_frontend)**: The main user interface, featuring Tailwind styling, Firebase client auth, and real-time WebSocket integrations for tracking generation status.
+*   🔗 **[ML Pipeline Repository](https://github.com/hardikhazari/Speak_Potrait)**: This current repository, handling Zonos TTS, StyleGAN age transformation, and CarveKit background removal.
 
 ---
 
